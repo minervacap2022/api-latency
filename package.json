@@ -1,0 +1,14 @@
+{
+  "name": "api-latency",
+  "version": "1.0.0",
+  "description": "API response time tester - ping endpoints, show avg/p95/p99",
+  "main": "index.js",
+  "bin": {
+    "api-latency": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["api", "latency", "ping", "performance", "cli"],
+  "license": "MIT"
+}
