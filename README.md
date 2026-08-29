@@ -76,3 +76,8 @@ Endpoints : 2  |  Requests per endpoint : 10  |  Concurrency : 1
 ## License
 
 MIT
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
